@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+
+  @media (max-width: 768px) {
+    .sidebar {
+      position: static;
+      height: auto;
+    }
+  
+    .top-navbar {
+      position: static;
+    }
+  }
